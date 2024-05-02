@@ -1,4 +1,4 @@
-# Snart-thermostst-project
+# Smart-thermostst-project
 
 
 Hi Guys i have implemented  the project the smart thermostat have  a look
